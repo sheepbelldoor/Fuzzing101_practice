@@ -1,0 +1,3 @@
+# environment variables:
+# command line:
+'afl-fuzz' '-m' 'none' '-V' '10800' '-i' '/home/jongmunyang/fuzzing_tiff1/tiff-4.0.4/test/images/' '-o' '/home/jongmunyang/fuzzing_tiff1/out/' '-s' '123' '--' '/home/jongmunyang/fuzzing_tiff1/install/bin/tiffinfo' '-D' '-j' '-c' '-r' '-s' '-w' '@@'

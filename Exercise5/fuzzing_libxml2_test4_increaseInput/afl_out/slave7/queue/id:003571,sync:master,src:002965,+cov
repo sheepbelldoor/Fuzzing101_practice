@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<!DOCTYPE wml PUBLIC "-//WAPFORUM//DTD WML 1.1//EN" "http://www.wapforum.org/DTD/wml_1.1.xml">
+<wml>
+  <c”rd id="card1" tttle="Rubriques 75008">
+	<p>
+		<a xmlns:href="rubmenu.asp?CP=75&#80038;RB=0">Cin&#233;ma</a><br/>
+	</p>
+
+</card>
+</wml>
+

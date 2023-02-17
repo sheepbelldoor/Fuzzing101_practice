@@ -1,0 +1,3 @@
+# environment variables:
+# command line:
+'afl-fuzz' '-m' 'none' '-i' './afl_in' '-o' 'afl_out' '-s' '235' '-S' 'slave2' '-V' '57600' '--' './install/bin/xmllint' '--memory' '--noenc' '--nocdata' '--dtdattr' '--loaddtd' '--valid' '--xinclude' '@@'
