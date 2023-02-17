@@ -1,0 +1,3 @@
+# environment variables:
+# command line:
+'afl-fuzz' '-i' '/home/jongmunyang/fuzzing_libexif/exif-samples-master/jpg/' '-o' '/home/jongmunyang/fuzzing_libexif/out/' '-s' '123' '--' '/home/jongmunyang/fuzzing_libexif/install/bin/exif' '@@'
