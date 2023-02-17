@@ -1,0 +1,6 @@
+/home/jongmunyang/fuzzing_tcpdump5/install/sbin/tcpdump
+-vvvvXX
+-ee
+-nn
+-r
+@@
