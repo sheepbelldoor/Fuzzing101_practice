@@ -1,0 +1,4 @@
+# environment variables:
+AFL_KILL_SIGNAL=9
+# command line:
+'afl-fuzz' '-m' 'none' '-i' './afl_in' '-o' 'afl_out' '-s' '234' '-x' './dictionaries/xml.dict' '-S' 'slave1' '-V' '86400' '--' './install/bin/xmllint' '--memory' '--noenc' '--nocdata' '--dtdattr' '--loaddtd' '--valid' '--xinclude' '@@'
